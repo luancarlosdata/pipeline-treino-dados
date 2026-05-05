@@ -46,3 +46,5 @@ DB_PASSWORD=sua_senha
 
 - `dim_exercicios` — cadastro de exercícios com grupo muscular
 - `fato_treino` — registros diários de carga e repetições
+<img width="1709" height="801" alt="{AE2CC390-607E-416E-9D49-1A8C0404FD6F}" src="https://github.com/user-attachments/assets/69a3fc02-aa6d-425a-9b65-ab821299b8d3" />
+
